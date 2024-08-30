@@ -225,5 +225,3 @@ The `Grid` component ensures that the product cards are responsive. Each card wi
 In this challenge, you designed a product card component using Material UI and React with TypeScript. You ensured that the component is responsive and adheres to accessibility standards. This project demonstrates your ability to create functional and user-friendly components in a real-world application.
 
 In the next lesson, we will explore how to further enhance our e-commerce application by implementing additional features and best practices.
-
-### [Next: 08-final-project](./08-final-project.md)
